@@ -12,6 +12,7 @@ New in 2025
 |-----------------|-----------------------------------|---------------|
 | 0               | Dr. Nelson's quick tips for python | None          |
 | 1               | Brownian Motion                   | HW2           |
+| 2               | Biofluid Modelling                   | HW3           |
 
 
 ## Data sets
